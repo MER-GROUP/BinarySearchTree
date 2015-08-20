@@ -1,9 +1,3 @@
-package test;
-
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
-
 /**
  * Created by M.E.R.lin aka Maxim Ramanenka on 05.08.2015 - 10.08.2015.
  * Привет друзья и остальные !
@@ -67,6 +61,10 @@ import java.util.Stack;
  * Чтобы решить четвертую бонусную задачу из двадцатого уровня пришлось разобраться в деревьях, графах, списках ...
  * Ну чтож ... приятного просмотра кода и изучения бинарного дерева поиска -) УДАЧИ !
  */
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
 public class Tree007 {
     public static class Node{//-----------------------------------------------------------------------------------------
         //значение узла/////////////////////////////////////////////////////////////////////////////////////////////////
